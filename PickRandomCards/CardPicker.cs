@@ -20,7 +20,7 @@ namespace PickRandomCards
             if(value == 1) return "Spades";
             if(value == 2) return "Hearts";
             if(value == 3) return "Clubs";
-            return "Diamons";
+            return "Diamonds";
         }
 
         private static string RandomValue()
